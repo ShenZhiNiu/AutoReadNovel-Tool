@@ -1,3 +1,5 @@
+下载AutoRead.exe文件即可。（please download AutoRead.exe）
+
 工具已实现功能：
 1.可以保存用户数据，记录上一次关闭程序的网址和其他数据；
 2.网页打开后自动进入滚动状态；
